@@ -1,1 +1,1 @@
-### **For Sample Dockerfile for various Applications**
+### For Sample Dockerfile for various Applications
